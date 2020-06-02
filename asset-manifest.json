@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/roboreact/static/css/main.5fdeaf0d.chunk.css",
-    "main.js": "/roboreact/static/js/main.022db164.chunk.js",
-    "main.js.map": "/roboreact/static/js/main.022db164.chunk.js.map",
+    "main.js": "/roboreact/static/js/main.225dd9ed.chunk.js",
+    "main.js.map": "/roboreact/static/js/main.225dd9ed.chunk.js.map",
     "runtime-main.js": "/roboreact/static/js/runtime-main.ea306fdb.js",
     "runtime-main.js.map": "/roboreact/static/js/runtime-main.ea306fdb.js.map",
     "static/css/2.3c03f26f.chunk.css": "/roboreact/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.31e84ba2.chunk.js": "/roboreact/static/js/2.31e84ba2.chunk.js",
-    "static/js/2.31e84ba2.chunk.js.map": "/roboreact/static/js/2.31e84ba2.chunk.js.map",
+    "static/js/2.c46ac6f4.chunk.js": "/roboreact/static/js/2.c46ac6f4.chunk.js",
+    "static/js/2.c46ac6f4.chunk.js.map": "/roboreact/static/js/2.c46ac6f4.chunk.js.map",
     "index.html": "/roboreact/index.html",
-    "precache-manifest.0142e02b6e0d73a95d49d1735b202fcd.js": "/roboreact/precache-manifest.0142e02b6e0d73a95d49d1735b202fcd.js",
+    "precache-manifest.989070c5605ff56025dec89ad2820cb7.js": "/roboreact/precache-manifest.989070c5605ff56025dec89ad2820cb7.js",
     "service-worker.js": "/roboreact/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/roboreact/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.5fdeaf0d.chunk.css.map": "/roboreact/static/css/main.5fdeaf0d.chunk.css.map",
-    "static/js/2.31e84ba2.chunk.js.LICENSE.txt": "/roboreact/static/js/2.31e84ba2.chunk.js.LICENSE.txt"
+    "static/js/2.c46ac6f4.chunk.js.LICENSE.txt": "/roboreact/static/js/2.c46ac6f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea306fdb.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.31e84ba2.chunk.js",
+    "static/js/2.c46ac6f4.chunk.js",
     "static/css/main.5fdeaf0d.chunk.css",
-    "static/js/main.022db164.chunk.js"
+    "static/js/main.225dd9ed.chunk.js"
   ]
 }
